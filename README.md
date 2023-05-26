@@ -24,6 +24,15 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+### Test Development on Local with Search Bar
+
+```
+$ yarn build
+$ yarn serve
+```
+
+To use Search Bar, the application must run from `build` directory.
+
 ### Deployment
 
 Using SSH:
